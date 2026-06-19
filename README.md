@@ -53,7 +53,7 @@ To combat this, I implemented:
 ### Quick Start
 1. Clone the repository: `git clone https://github.com/Foysal348/Triagegeist-Unmasking-the-Template-Trap.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the notebook: `jupyter notebook triagegeist_grandmaster_eda.ipynb`
+3. Run the notebook: `jupyter notebook triagegeist-leak-free-nlp-clinical-safety.ipynb`
 
 ---
 
