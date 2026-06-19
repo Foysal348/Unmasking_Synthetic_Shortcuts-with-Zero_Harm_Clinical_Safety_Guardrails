@@ -63,6 +63,6 @@ This model is a **decision-support tool**, not a replacement for clinical judgme
 ---
 
 ## 📜 License
-This project is released under a **Non-Commercial Research License**. Redistribution outside of Kaggle is prohibited without prior written permission.
+This project is released under a Non-Commercial Research License. Redistribution outside of Kaggle is prohibited without prior written permission from the Laitinen-Fredriksson Foundation. The code (excluding the dataset) is provided for reproducibility purposes under the same non-commercial terms.
 
 ✍️ **Author:** Foysal | Team Triagegeist | June 2026
